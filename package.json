@@ -1,0 +1,22 @@
+{
+  "name": "npm-pubilish",
+  "version": "1.0.0",
+  "description": "NPM publish Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishparasar007/npm-pubilish.git"
+  },
+  "keywords": [
+    "publish"
+  ],
+  "author": "Ashish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishparasar007/npm-pubilish/issues"
+  },
+  "homepage": "https://github.com/ashishparasar007/npm-pubilish#readme"
+}
